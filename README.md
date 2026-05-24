@@ -39,3 +39,7 @@ A modern JavaScript Tic Tac Toe game
 - CSS Grid/Flexbox
 
 ---
+
+Demo
+
+https://hridyansh001.github.io/TicTacToe/
