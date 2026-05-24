@@ -1,0 +1,70 @@
+*{
+
+    background-color: black;
+    color: white;
+}
+
+#mainDiv{
+    display: grid;
+
+    height: 500px;
+    width: 500px;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    /* border: 2px solid white; */
+
+    grid-template-columns: repeat(3,160px);
+    grid-template-rows: repeat(3,160px);
+    gap:10px
+}
+
+.box
+{
+    border: 2px solid white;
+    height: 150px;
+    width: 150px;
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    background-color: cyan;
+    color: black;
+}
+
+#SymbolOpt{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height:120px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+#symbols{
+
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+#SymbolX
+{
+    text-align: center;
+    /* border: 2px solid white; */
+    width: 120px;
+    height: 120px;
+    margin-left: 20px;
+    font-size: 70px;
+
+}
+#SymbolO
+{
+     text-align: center;
+    /* border: 2px solid white; */
+    width: 120px;
+    height: 120px;
+    margin-left: 20px;
+    font-size: 70px;
+}
