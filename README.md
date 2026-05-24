@@ -44,3 +44,5 @@ A modern JavaScript Tic Tac Toe game
 - CSS Grid/Flexbox
 
 ---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tic+Tac+Toe+Game;Built+With+JavaScript;Frontend+Project">
