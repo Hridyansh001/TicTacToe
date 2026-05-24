@@ -19,6 +19,7 @@
     gap:10px
 }
 
+/* for div boxes */
 .box
 {
     border: 2px solid white;
@@ -30,6 +31,9 @@
     font-size: 30px;
     background-color: cyan;
     color: black;
+    border-radius: 20%;
+    align-items: center;
+    font-size: 90px;
 }
 
 #SymbolOpt{
